@@ -9,6 +9,8 @@ Repositori ini dibuat untuk memenuhi Tugas 1 pada mata kuliah Pengembangan Peran
 - NPM : 2313020034  
 - Mata Kuliah: Pengembangan Perangkat Lunak 
 
+---
+
 ## 1. Deskripsi Tugas
 Dalam pengembangan perangkat lunak modern, penggunaan Version Control System (VCS) merupakan keterampilan dasar yang wajib dimiliki oleh setiap pengembang. Melalui tugas ini, mahasiswa mempelajari penggunaan dasar Git dan platform kolaborasi GitHub secara mandiri.
 
