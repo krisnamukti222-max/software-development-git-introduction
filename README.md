@@ -1,7 +1,8 @@
-# software-development-git-introduction
 # Git Introduction
 
-Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah Software Development.
+Repositori ini dibuat untuk memenuhi Tugas 1 pada mata kuliah Pengembangan Perangkat Lunak
+
+Identitas Mahasiswa
 
 Nama : Krisna Mukti  
 NPM : 2313020034  
