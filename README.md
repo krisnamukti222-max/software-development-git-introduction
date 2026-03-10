@@ -1,4 +1,4 @@
-# Git Introduction
+#Pengantar Git Pengembangan
 
 Repositori ini dibuat untuk memenuhi Tugas 1 pada mata kuliah Pengembangan Perangkat Lunak
 
