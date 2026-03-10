@@ -6,4 +6,3 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 Nama : Krisna Mukti  
 NPM : 2313020034  
 Mata Kuliah: Pengembangan Perangkat Lunak 
-Universitas : Universitas Nusantara PGRI Kediri
